@@ -9,6 +9,11 @@ h1 {
     border-bottom: 1px solid #CCCCCC; /* size, one line, light black */
 }
 
+.top-profile p{
+ display:inline-block;
+ vertical-align:middle;
+}
+
 #menu ul{
     margin: 0; 
     padding: 0; 
