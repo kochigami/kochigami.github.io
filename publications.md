@@ -50,11 +50,21 @@ layout: default
 
 ### TA
 
+#### Teaching Assistant
+
+2. Sep. 2015 - Dec. 2015  TA (Intelligent System Practice)
+1. Oct. 2014 - Aug. 2015  Tutor for exchange student from China
+
+#### Technical Assistant
+
+1. Sep. 2016-   Assistant Technical Staff, JSK Lab
+
 ### Internship
 
-3. 2015年9月  北米カルソニックカンセイ・テクニカルセンター	  
-2. 2015年8月  Aldebaran Robotics
-1. 2013年8月  安川電機入間事業所
+3. Sep. 2015  Calsonic Kansei North America Technical Center 
+（北米カルソニックカンセイ・テクニカルセンター）	  
+2. Aug. 2015  Aldebaran Robotics
+1. Aug. 2013  Yasukawa Electric （安川電機入間事業所）
 
 ### Science Communication Activities
 
@@ -73,9 +83,9 @@ layout: default
 
 ### Volunteer Activities
 
-4. March, 2018. HRI2018 Student Volunteers
-3. August, 2016.  DO-IT Japan2016
-2. November, 2015.  科学へジャンプイン東京2015
-1. April, 2015.  東京レインボープライド
+4. Mar. 2018. HRI2018 Student Volunteers
+3. Aug. 2016.  DO-IT Japan2016
+2. Nov. 2015.  科学へジャンプイン東京2015
+1. Apr. 2015.  東京レインボープライド
 
 [Back to Top Page](./)
