@@ -5,3 +5,4 @@ show_downloads: false
 google_analytics: UA-115792119-1
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
