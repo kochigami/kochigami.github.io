@@ -8,9 +8,9 @@ layout: default
 ![](figure/profile.png)
 <dl>
 <dt>Name</dt>
-<dd>Kanae Kochigami</dd>
+<dd>Kanae Kochigami / 東風上 奏絵</dd>
 <dt>School Year</dt>
-<dd>1st year of Ph.D course</dd>
+<dd>first year in Ph.D course</dd>
 <dt>Major</dt>
 <dd>Human-Robot Interaction & Science Communication</dd>
 <dt>Laboratory</dt>
