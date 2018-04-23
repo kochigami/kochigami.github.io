@@ -10,7 +10,7 @@ layout: default
 <dt>Name</dt>
 <dd>Kanae Kochigami / 東風上 奏絵</dd>
 <dt>School Year</dt>
-<dd>first year in Ph.D course</dd>
+<dd>second year in Ph.D course</dd>
 <dt>Major</dt>
 <dd>Human-Robot Interaction & Science Communication</dd>
 <dt>Laboratory</dt>
@@ -25,4 +25,4 @@ The University of Tokyo</dd>
 - Reach Out
 - Job Hunting
 
-### All Rights Reserved.
+### Copyright 2017-2018 Kanae Kochigami
