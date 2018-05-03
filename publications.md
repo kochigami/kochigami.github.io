@@ -9,7 +9,7 @@ layout: default
 ### Oral Presentations
 4. Kanae Kochigami: “Which direction is desired for robotics technology for assistance of people: living with a robot or using a robot? ”, Visit of University of Tokyo Graduate School of Arts and Sciences Colloquium, United Kingdom, March, 2017. 
 
-3. Kanae Kochigami, Yohei Kakiuchi, Kei Okada, Masayuki Inaba: “Study on the feasibility and the design to support child care for a child to do chores with an interactive robot Pepper”, in International Federation for IFHE 2016 World Congress, Daejeon, Korea, August, 2016. 
+3. Kanae Kochigami, Yohei Kakiuchi, Kei Okada, Masayuki Inaba: “Study on the feasibility and the design to support child care for a child to do chores with an interactive robot Pepper”, in International Federation for IFHE 2016 World Congress, Daejeon, Korea, August, 2016. [referred]
 
 2. Kanae Kochigami: “Robotics for supporting children with disabilities”, in Joint workshop of Disability Research at UEA and the Educational Project: Science, Technology, and Inclusive Society of the IHS program (Integrated Human Sciences Program for Cultural Diversity), University of Tokyo, Norwich, United Kingdom, January, 2016.
 
