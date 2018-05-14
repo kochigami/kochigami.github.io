@@ -7,9 +7,9 @@ layout: default
 ## International Conferences
 
 ### Oral Presentations
-4. Kanae Kochigami: “Which direction is desired for robotics technology for assistance of people: living with a robot or using a robot? ”, Visit of University of Tokyo Graduate School of Arts and Sciences Colloquium, United Kingdom, March, 2017. 
+4. Kanae Kochigami: “Which direction is desired for robotics technology for assistance of people: living with a robot or using a robot? ”, Visit of University of Tokyo Graduate School of Arts and Sciences Colloquium, Norwich, United Kingdom, March, 2017. 
 
-3. Kanae Kochigami, Yohei Kakiuchi, Kei Okada, Masayuki Inaba: “Study on the feasibility and the design to support child care for a child to do chores with an interactive robot Pepper”, in International Federation for IFHE 2016 World Congress, Daejeon, Korea, August, 2016. [referred]
+3. Kanae Kochigami, Yohei Kakiuchi, Kei Okada, and Masayuki Inaba: “Study on the feasibility and the design to support child care for a child to do chores with an interactive robot Pepper”, in Proceedings of the XXIII IFHE (International Federation for Home Economics) World Congress 2016 (IFHE 2016), pp. 42-43, Daejeon, Korea, August, 2016. [referred]
 
 2. Kanae Kochigami: “Robotics for supporting children with disabilities”, in Joint workshop of Disability Research at UEA and the Educational Project: Science, Technology, and Inclusive Society of the IHS program (Integrated Human Sciences Program for Cultural Diversity), University of Tokyo, Norwich, United Kingdom, January, 2016.
 
@@ -19,10 +19,10 @@ layout: default
 ### Poster Presentations
 
 3. Kanae Kochigami, Kei Okada, Masayuki Inaba:
-"Social Acceptance of Interactive Robots in Japan: Comparison of Children and Adults and Analysis of People's Opinion.", pp. 157-158, HRI (Companion) 2018, 2018. [referred]
+"Social Acceptance of Interactive Robots in Japan: Comparison of Children and Adults and Analysis of People's Opinion.", pp. 157-158, HRI (Companion) 2018, Chicago, IL, USA, March, 2018. [referred]
 
 2. Kanae Kochigami, Kei Okada, Masayuki Inaba:
-"Behavior Design of a Robot in a Public Place for Enriching Child-Robot Interaction in a Group.", pp. 155-156, HRI (Companion) 2018, 2018. [referred]
+"Behavior Design of a Robot in a Public Place for Enriching Child-Robot Interaction in a Group.", pp. 155-156, HRI (Companion) 2018, Chicago, IL, USA, March, 2018. [referred]
 
 1. Kanae Kochigami, Yohei Kakiuchi, Kei Okada, Masayuki Inaba:
 “Showing Character-Printed Cards: Evaluation of a Means of Human-Robot Communication for Supplementing Speech”, in Proceeding of the 2015 IEEE International Symposium on Robot and Human Interactive Communication, IS03, Hyogo, Japan, September, 2015. [referred] 
@@ -31,7 +31,7 @@ layout: default
 
 ### Oral Presentations
 
-2. 東風上 奏絵, 岡田 慧, 稲葉 雅幸: “子どもとロボットのふれ合い評価とロボット教育の両立を目指した科学コミュニケーション活動の試み”, 第35回日本ロボット学会学術講演会講演論文集, 3H3-01, 9月, 埼玉県, 2017. 
+2. 東風上 奏絵, 岡田 慧, 稲葉 雅幸: “子どもとロボットのふれ合い評価とロボット教育の両立を目指した科学コミュニケーション活動の試み”, 第35回日本ロボット学会学術講演会講演論文集, 3H3-01, 埼玉県, 9月, 2017. 
 
 1. 東風上奏絵, 稲垣祐人, 古田悠貴, 植田亮平, 垣内洋平, 岡田慧, 稲葉雅幸: “具体的操作期の子供との対話を目指した視聴覚対話協調システムに関する研究” , 第32回日本ロボット学会学術講演会講演論文集, 1C3-08, 福岡県, 9月, 2014. 
 
@@ -44,7 +44,7 @@ layout: default
 
 2. 東風上奏絵, 垣内洋平, 岡田慧, 稲葉雅幸: “パーソナルロボットによる児童の受容と積極性の引き出しの試み”, 第67回日本家政学会研究発表要旨集, 2P-61, 岩手県, 5月, 2015. 
 
-1. 東風上奏絵, 垣内洋平, 岡田慧, 稲葉雅幸: “児童とのふれ合いを日記に書くパーソナルロボットの視聴覚協調システムの構築（プレミアム発表）”, 第19回一般社団法人情報処理学会シンポジウム, pp.238-243, 3月, 東京都, 2015. [referred]
+1. 東風上奏絵, 垣内洋平, 岡田慧, 稲葉雅幸: “児童とのふれ合いを日記に書くパーソナルロボットの視聴覚協調システムの構築（プレミアム発表）”, 情報処理学会 インタラクション 2015 論文集, pp.238-243, 東京都, 3月, 2015. [referred]
 
 ## Activity
 
