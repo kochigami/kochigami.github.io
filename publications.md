@@ -37,9 +37,9 @@ layout: default
 
 ### Poster Presentations
 
-4. Kanae Kochigami, Yohei Kakiuchi, Kei Okada, Masayuki Inaba: “Study of starting conversation system by observing a person's curiosity to a robot”, in Proceedings of 2015 JSME Conference on Robotics and Mechatronics, 2P2-F08, Fukushima, May, 2017. 
+4. Kanae Kochigami, Yohei Kakiuchi, Kei Okada, Masayuki Inaba: “Study of starting conversation system by observing a person's curiosity to a robot”, in Proceedings of 2017 JSME Conference on Robotics and Mechatronics, 2P2-F08, Fukushima, May, 2017. 
 
-3. Kanae Kochigami, Yohei Kakiuchi, Kei Okada, Masayuki Inaba: “Study of walking together system by following a person or holding hands”, in Proceedings of 2015 JSME Conference on Robotics and Mechatronics, 2P2-F07, Fukushima, May, 2017.
+3. Kanae Kochigami, Yohei Kakiuchi, Kei Okada, Masayuki Inaba: “Study of walking together system by following a person or holding hands”, in Proceedings of 2017 JSME Conference on Robotics and Mechatronics, 2P2-F07, Fukushima, May, 2017.
 
 
 2. 東風上奏絵, 垣内洋平, 岡田慧, 稲葉雅幸: “パーソナルロボットによる児童の受容と積極性の引き出しの試み”, 第67回日本家政学会研究発表要旨集, 2P-61, 岩手県, 5月, 2015. 
