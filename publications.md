@@ -9,7 +9,7 @@ layout: default
 ### Oral Presentations
 4. Kanae Kochigami: “Which direction is desired for robotics technology for assistance of people: living with a robot or using a robot? ”, Visit of University of Tokyo Graduate School of Arts and Sciences Colloquium, Norwich, United Kingdom, March, 2017. 
 
-3. Kanae Kochigami, Yohei Kakiuchi, Kei Okada, and Masayuki Inaba: “Study on the feasibility and the design to support child care for a child to do chores with an interactive robot Pepper”, in Proceedings of the XXIII IFHE (International Federation for Home Economics) World Congress 2016 (IFHE 2016), pp. 42-43, Daejeon, Korea, August, 2016. [referred]
+3. Kanae Kochigami, Yohei Kakiuchi, Kei Okada, and Masayuki Inaba: “Study on the feasibility and the design to support child care for a child to do chores with an interactive robot Pepper”, in Proceedings of the XXIII IFHE (International Federation for Home Economics) World Congress 2016 (IFHE 2016), pp. 42-43 (IP_0884), Daejeon, Korea, August, 2016. [referred]
 
 2. Kanae Kochigami: “Robotics for supporting children with disabilities”, in Joint workshop of Disability Research at UEA and the Educational Project: Science, Technology, and Inclusive Society of the IHS program (Integrated Human Sciences Program for Cultural Diversity), University of Tokyo, Norwich, United Kingdom, January, 2016.
 
@@ -69,16 +69,16 @@ layout: default
 ### Science Communication Activities
 
 12. Miraikan オープンラボ2017・秋「フリーウォーク」, 10月, 2017.
-11. 日本科学未来館サイエンティスト・クエスト, “ロボットは機械であるべきか？それとも生き物に近づくべきか？”, 9月, 2017.
+11. 日本科学未来館サイエンティスト・クエスト, “ロボットは機械であるべきか？それとも生き物に近づくべきか？”, 2回実施, 9月, 2017.
 10. Miraikan オープンラボ2017・夏「フリーウォーク」, 8月, 2017.
 9. 国際家政学会アジア大会（ARAHE）ワークショップにおけるPepperデモンストレーション, 8月, 2017.
-8. Miraikan 実験イベント「ロボットを目的地に連れて行こう！」10月, 11月 計4回, 2016.
+8. Miraikan 実験イベント「ロボットを目的地に連れて行こう！」, 8回実施, 10月, 11月, 2016.
 7. Miraikan オープンラボ2016・秋～Incoming Reality～「フリーウォーク」, 10月, 2016.
-6. Miraikan研究棟ツアー「ヒューマノイドプロジェクト」ツアー　ロボットと話してみよう！, 11月, 2015.
+6. Miraikan研究棟ツアー「ヒューマノイドプロジェクト」ツアー　ロボットと話してみよう！, 3回実施, 11月, 2015.
 5. Miraikan オープンラボ2015「いってみよう」, 10月, 2015.
-4. Miraikan研究棟ツアー「ヒューマノイドプロジェクト」ツアー　ロボットと一緒に歩いてみよう, 7月, 2015.
+4. Miraikan研究棟ツアー「ヒューマノイドプロジェクト」ツアー　ロボットと一緒に歩いてみよう, 7月, 3回実施, 2015.
 3. 東京大学駒場博物館　特別展　『境界を引く⇔ 越える』関連イベント　学生研究紹介　5月, 2015.
-2. Miraikan研究棟ツアー「ヒューマノイドプロジェクト」ツアー　ロボットとコミュニケーション, 1月, 2015.
+2. Miraikan研究棟ツアー「ヒューマノイドプロジェクト」ツアー　ロボットとコミュニケーション, 1月, 2回実施, 2015.
 1. サイエンスアゴラ, 「未来館の研究棟を探検しよう！」, 11月, 2014.
 
 ### Volunteer Activities
