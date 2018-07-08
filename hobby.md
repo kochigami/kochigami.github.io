@@ -9,4 +9,4 @@ layout: default
 
 ![](figure/happynewyear2015.jpeg)
 
-[Back to Top Page](./)
+<a href="{{ site.baseurl }}/index.html">Back to Top Page</a>
