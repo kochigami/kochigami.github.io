@@ -88,4 +88,4 @@ layout: default
 2. Nov. 2015.  科学へジャンプイン東京2015
 1. Apr. 2015.  東京レインボープライド
 
-[Back to Top Page](./)
+<a href="{{ site.baseurl }}/index.html">Back to Top Page</a>

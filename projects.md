@@ -23,4 +23,4 @@ layout: default
 <dd>(3) In which context can people socially accept a social robot? </dd>
 </dl>
 
-[Back to Top Page](./)
+<a href="{{ site.baseurl }}/index.html">Back to Top Page</a>

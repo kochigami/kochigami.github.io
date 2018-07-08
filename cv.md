@@ -26,4 +26,4 @@ Department of Mechano-Informatics, Faculty of Engineering, the University of Tok
 
 <a href="figure/CV_Kanae_Kochigami.pdf"> click to download (CV_Kanae_Kochigami.pdf）</a>
 
-[Back to Top Page](./)
+<a href="{{ site.baseurl }}/index.html">Back to Top Page</a>
