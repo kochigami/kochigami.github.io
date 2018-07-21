@@ -45,9 +45,9 @@ layout: default
 
 2. 東風上奏絵, 垣内洋平, 岡田慧, 稲葉雅幸: “パーソナルロボットによる児童の受容と積極性の引き出しの試み”, 第67回日本家政学会研究発表要旨集, 2P-61, 岩手県, 5月, 2015. 
 
-1. 東風上奏絵, 垣内洋平, 岡田慧, 稲葉雅幸: “児童とのふれ合いを日記に書くパーソナルロボットの視聴覚協調システムの構築（プレミアム発表）”, 情報処理学会 インタラクション 2015 論文集, pp.238-243, 東京都, 3月, 2015. [referred]
+1. 東風上奏絵, 垣内洋平, 岡田慧, 稲葉雅幸: “児童とのふれ合いを日記に書くパーソナルロボットの視聴覚協調システムの構築（プレミアム発表）”, 情報処理学会 インタラクション 2015 論文集, pp.238-243, 東京都, 3月, 2015. [free pdf available at the conference page <a href="http://www.interaction-ipsj.org/proceedings/2015/data/20150226/A23.pdf">here</a>] [referred]
 
-## Activity
+## Activities
 
 ### TA
 
@@ -62,6 +62,7 @@ layout: default
 
 ### Internship
 
+4. planned
 3. Sep. 2015  Calsonic Kansei North America Technical Center 
 （北米カルソニックカンセイ・テクニカルセンター）	  
 2. Aug. 2015  Aldebaran Robotics
@@ -69,6 +70,7 @@ layout: default
 
 ### Science Communication Activities
 
+13. planned
 12. Miraikan オープンラボ2017・秋「フリーウォーク」, 10月, 2017.
 11. 日本科学未来館サイエンティスト・クエスト, “ロボットは機械であるべきか？それとも生き物に近づくべきか？”, 2回実施, 9月, 2017.
 10. Miraikan オープンラボ2017・夏「フリーウォーク」, 8月, 2017.
