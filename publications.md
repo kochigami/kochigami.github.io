@@ -9,20 +9,21 @@ layout: default
 ### Oral Presentations
 4. Kanae Kochigami: “Which direction is desired for robotics technology for assistance of people: living with a robot or using a robot? ”, Visit of University of Tokyo Graduate School of Arts and Sciences Colloquium, Norwich, United Kingdom, March, 2017. 
 
-3. Kanae Kochigami, Yohei Kakiuchi, Kei Okada, and Masayuki Inaba: “Study on the feasibility and the design to support child care for a child to do chores with an interactive robot Pepper”, in Proceedings of the XXIII IFHE (International Federation for Home Economics) World Congress 2016 (IFHE 2016), pp. 42-43 (IP_0884), Daejeon, Korea, August, 2016. [referred]
+3. <p id="IFHE2016">Kanae Kochigami, Yohei Kakiuchi, Kei Okada, and Masayuki Inaba: “Study on the feasibility and the design to support child care for a child to do chores with an interactive robot Pepper”, in Proceedings of the XXIII IFHE (International Federation for Home Economics) World Congress 2016 (IFHE 2016), pp. 42-43 (IP_0884), Daejeon, Korea, August, 2016. [reffered] </p>
+
 
 2. Kanae Kochigami: “Robotics for supporting children with disabilities”, in Joint workshop of Disability Research at UEA and the Educational Project: Science, Technology, and Inclusive Society of the IHS program (Integrated Human Sciences Program for Cultural Diversity), University of Tokyo, Norwich, United Kingdom, January, 2016.
 
-1. Kanae Kochigami, Jiang Jun, Yuriko Kakehashi, Chi Wun Au, Yohei Kakiuchi, Kei Okada, Masayuki Inaba:
-“Walking Together Hand in Hand: Design and Evaluation of Autonomous Robot System That a Robot Recognizes Moving Direction with a Child's Assistance of Pulling Its Hand”, in Proceedings of the 2015 IEEE/SICE International Symposium on System Integration, pp.738-743, Aichi, Japan, December, 2015. [referred]
+1. <p id="SII2015"> Kanae Kochigami, Jiang Jun, Yuriko Kakehashi, Chi Wun Au, Yohei Kakiuchi, Kei Okada, Masayuki Inaba:
+“Walking Together Hand in Hand: Design and Evaluation of Autonomous Robot System That a Robot Recognizes Moving Direction with a Child's Assistance of Pulling Its Hand”, in Proceedings of the 2015 IEEE/SICE International Symposium on System Integration, pp.738-743, Aichi, Japan, December, 2015. [<a href="https://doi.org/10.1109/SII.2015.7405071">IEEE Xplore</a>] [referred] </p>
 
 ### Poster Presentations
 
-3. Kanae Kochigami, Kei Okada, Masayuki Inaba:
-"Social Acceptance of Interactive Robots in Japan: Comparison of Children and Adults and Analysis of People's Opinion.", pp. 157-158, HRI (Companion) 2018, Chicago, IL, USA, March, 2018. [referred]
+3. <p id="HRI2018-2"> Kanae Kochigami, Kei Okada, Masayuki Inaba:
+"Social Acceptance of Interactive Robots in Japan: Comparison of Children and Adults and Analysis of People's Opinion.", pp. 157-158, HRI (Companion) 2018, Chicago, IL, USA, March, 2018. [free pdf available at ACM DL <a href="https://doi.org/10.1145/3173386.3177012">here</a>] [referred] </p>
 
-2. Kanae Kochigami, Kei Okada, Masayuki Inaba:
-"Behavior Design of a Robot in a Public Place for Enriching Child-Robot Interaction in a Group.", pp. 155-156, HRI (Companion) 2018, Chicago, IL, USA, March, 2018. [referred]
+2. <p id="HRI2018-1"> Kanae Kochigami, Kei Okada, Masayuki Inaba:
+"Behavior Design of a Robot in a Public Place for Enriching Child-Robot Interaction in a Group.", pp. 155-156, HRI (Companion) 2018, Chicago, IL, USA, March, 2018. [free pdf available at ACM DL <a href="https://doi.org/10.1145/3173386.3177011">here</a>] [referred] </p>
 
 1. Kanae Kochigami, Yohei Kakiuchi, Kei Okada, Masayuki Inaba:
 “Showing Character-Printed Cards: Evaluation of a Means of Human-Robot Communication for Supplementing Speech”, in Proceeding of the 2015 IEEE International Symposium on Robot and Human Interactive Communication, IS03, Hyogo, Japan, September, 2015. [referred] 
@@ -31,7 +32,7 @@ layout: default
 
 ### Oral Presentations
 
-2. 東風上 奏絵, 岡田 慧, 稲葉 雅幸: “子どもとロボットのふれ合い評価とロボット教育の両立を目指した科学コミュニケーション活動の試み”, 第35回日本ロボット学会学術講演会講演論文集, 3H3-01, 埼玉県, 9月, 2017. 
+2. <p id="RSJ2017"> 東風上 奏絵, 岡田 慧, 稲葉 雅幸: “子どもとロボットのふれ合い評価とロボット教育の両立を目指した科学コミュニケーション活動の試み”, 第35回日本ロボット学会学術講演会講演論文集, 3H3-01, 埼玉県, 9月, 2017. </p>
 
 1. 東風上奏絵, 稲垣祐人, 古田悠貴, 植田亮平, 垣内洋平, 岡田慧, 稲葉雅幸: “具体的操作期の子供との対話を目指した視聴覚対話協調システムに関する研究” , 第32回日本ロボット学会学術講演会講演論文集, 1C3-08, 福岡県, 9月, 2014. 
 
