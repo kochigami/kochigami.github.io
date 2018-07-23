@@ -24,6 +24,11 @@ Graduate School of Interdisciplinary Information Studies, the University of Toky
 Department of Mechano-Informatics, Faculty of Engineering, the University of Tokyo, Japan </dd>
 </dl>
 
+<dl>
+<dt> May. 2018 – Jul. 2018 </dt>
+<dd> Google STEP 2018, Japan </dd>
+</dl>
+
 <a href="figure/CV_Kanae_Kochigami.pdf"> click to download (CV_Kanae_Kochigami.pdf）</a>
 
 <a href="{{ site.baseurl }}/index.html">Back to Top Page</a>
