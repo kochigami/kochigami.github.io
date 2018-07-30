@@ -6,7 +6,7 @@ layout: default
 
 ## Enhancing Child-People Interaction by Child-Robot Interaction
 
-I have been focused on three perspectives below.  
+I have been focusing on three perspectives below.  
 
 ### Child-Child interaction
 
