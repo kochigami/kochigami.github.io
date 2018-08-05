@@ -8,6 +8,10 @@ layout: default
 
 <dl>
 
+<dt> Oct. 2018 (expected) – </dt>
+
+<dd> Science Interpreter Training Program, Graduate School of Arts and Sciences, the University of Tokyo, Japan </dd>
+
 <dt> Apr. 2017 – </dt>
 <dd> Ph.D student in Interdisciplinary Information Studies, 
 Graduate School of Interdisciplinary Information Studies, the University of Tokyo, Japan </dd>
