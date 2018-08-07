@@ -47,6 +47,10 @@ layout: default
 
 1. 東風上奏絵, 垣内洋平, 岡田慧, 稲葉雅幸: “児童とのふれ合いを日記に書くパーソナルロボットの視聴覚協調システムの構築（プレミアム発表）”, 情報処理学会 インタラクション 2015 論文集, pp.238-243, 東京都, 3月, 2015. [referred]
 
+## Awards
+
+1. Best Achievement Award, HSR User Meeting 2018. (Awarded as a team)
+
 ## Activities
 
 ### TA
