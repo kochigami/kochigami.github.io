@@ -66,7 +66,7 @@ layout: default
 
 ### Internship
 
-4. planned
+4. in progress
 3. Sep. 2015  Calsonic Kansei North America Technical Center 
 （北米カルソニックカンセイ・テクニカルセンター）	  
 2. Aug. 2015  Aldebaran Robotics

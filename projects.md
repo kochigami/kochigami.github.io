@@ -24,7 +24,7 @@ I have been focusing on three perspectives below.
 
 ### Child-Researcher interaction (Science communication)
 
-- planned
+- in progress
 - Social Acceptance of Interactive Robots in Japan [free pdf available at ACM DL <a href="https://doi.org/10.1145/3173386.3177012">here</a>, link to <a href="{{ site.baseurl }}/publications.html#HRI2018-2">citation</a>]
 - Science Communication Activities for Children [link to <a href="{{ site.baseurl }}/publications.html#RSJ2017">citation</a>]
 
