@@ -10,12 +10,12 @@ I have been focusing on three perspectives below.
 
 ### Child-Child interaction
 
-- Introduction of a person by a robot [to appear]
+- Introduction of a person by a robot [link to <a href="{{ site.baseurl }}/publications.html#RO-MAN2018-2">citation</a>]
 - Walking together with a robot
   - Design and Evaluation
   [<a href="https://doi.org/10.1109/SII.2015.7405071">IEEE Xplore</a>, link to <a href="{{ site.baseurl }}/publications.html#SII2015">citation</a>]
    - Effects on Child-Child Interaction
-   [to appear]
+   [link to <a href="{{ site.baseurl }}/publications.html#RO-MAN2018-1">citation</a>]
 
 ### Child-Adult interaction
 
