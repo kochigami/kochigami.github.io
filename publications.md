@@ -8,11 +8,11 @@ layout: default
 
 ### Oral Presentations
 5. Kanae Kochigami, Kei Okada, Masayuki Inaba:
-"Toward Empathic Understanding of Children by Robots: Definition of Child Preferences and a Robot Learning Pilot Study", 4 pages, 3rd Workshop on Behavior Adaptation, Interaction and Learning for Assistive Robotics (BAILAR2018) - in conjunction with RO-MAN 2018, Nanjing, China, 2018. [reffered]
+"Toward Empathic Understanding of Children by Robots: Definition of Child Preferences and a Robot Learning Pilot Study", 4 pages, 3rd Workshop on Behavior Adaptation, Interaction and Learning for Assistive Robotics (BAILAR2018) - in conjunction with RO-MAN 2018, Nanjing, China, 2018. [referred]
 
 4. Kanae Kochigami: “Which direction is desired for robotics technology for assistance of people: living with a robot or using a robot? ”, Visit of University of Tokyo Graduate School of Arts and Sciences Colloquium, Norwich, United Kingdom, March, 2017. 
 
-3. <p id="IFHE2016">Kanae Kochigami, Yohei Kakiuchi, Kei Okada, and Masayuki Inaba: “Study on the feasibility and the design to support child care for a child to do chores with an interactive robot Pepper”, in Proceedings of the XXIII IFHE (International Federation for Home Economics) World Congress 2016 (IFHE 2016), pp. 42-43 (IP_0884), Daejeon, Korea, August, 2016. [reffered] </p>
+3. <p id="IFHE2016">Kanae Kochigami, Yohei Kakiuchi, Kei Okada, and Masayuki Inaba: “Study on the feasibility and the design to support child care for a child to do chores with an interactive robot Pepper”, in Proceedings of the XXIII IFHE (International Federation for Home Economics) World Congress 2016 (IFHE 2016), pp. 42-43 (IP_0884), Daejeon, Korea, August, 2016. [referred] </p>
 
 
 2. Kanae Kochigami: “Robotics for supporting children with disabilities”, in Joint workshop of Disability Research at UEA and the Educational Project: Science, Technology, and Inclusive Society of the IHS program (Integrated Human Sciences Program for Cultural Diversity), University of Tokyo, Norwich, United Kingdom, January, 2016.
