@@ -58,7 +58,7 @@ layout: default
 
 ## Awards
 
-2. Kanae Kochigami and Kei Okada and Masayuki Inaba:
+2. Kanae Kochigami, Kei Okada and Masayuki Inaba:
 Effect of Walking with a Robot on Child-Child Interactions, Nanjing City Prize (LBR), RO-MAN 2018, 2018.8.27.
 
 1. Best Achievement Award, HSR User Meeting 2018. (Awarded as a team)
