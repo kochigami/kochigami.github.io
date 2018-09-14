@@ -33,6 +33,27 @@ Department of Mechano-Informatics, Faculty of Engineering, the University of Tok
 <dd> Google STEP 2018, Japan </dd>
 </dl>
 
+## Activities
+
+### TA
+
+#### Teaching Assistant
+
+2. Sep. 2015 - Dec. 2015  TA (Intelligent System Practice)
+1. Oct. 2014 - Aug. 2015  Tutor for exchange student from China
+
+#### Technical Assistant
+
+1. Sep. 2016-   Assistant Technical Staff, JSK Lab
+
+### Internship
+
+4. in progress
+3. Sep. 2015  Calsonic Kansei North America Technical Center 
+（北米カルソニックカンセイ・テクニカルセンター）	  
+2. Aug. 2015  Aldebaran Robotics
+1. Aug. 2013  Yasukawa Electric （安川電機入間事業所）
+
 <a href="figure/CV_Kanae_Kochigami.pdf"> click to download (CV_Kanae_Kochigami.pdf）</a>
 
 <a href="{{ site.baseurl }}/index.html">Back to Top Page</a>

@@ -63,48 +63,4 @@ Effect of Walking with a Robot on Child-Child Interactions, Nanjing City Prize (
 
 1. Best Achievement Award, HSR User Meeting 2018. (Awarded as a team)
 
-## Activities
-
-### TA
-
-#### Teaching Assistant
-
-2. Sep. 2015 - Dec. 2015  TA (Intelligent System Practice)
-1. Oct. 2014 - Aug. 2015  Tutor for exchange student from China
-
-#### Technical Assistant
-
-1. Sep. 2016-   Assistant Technical Staff, JSK Lab
-
-### Internship
-
-4. in progress
-3. Sep. 2015  Calsonic Kansei North America Technical Center 
-（北米カルソニックカンセイ・テクニカルセンター）	  
-2. Aug. 2015  Aldebaran Robotics
-1. Aug. 2013  Yasukawa Electric （安川電機入間事業所）
-
-### Science Communication Activities
-
-13. Miraikan 「研究エリア」を一挙公開！ オープンラボ夏休みスペシャル2018，7月，2018. 
-12. Miraikan オープンラボ2017・秋「フリーウォーク」, 10月, 2017.
-11. 日本科学未来館サイエンティスト・クエスト, “ロボットは機械であるべきか？それとも生き物に近づくべきか？”, 2回実施, 9月, 2017.
-10. Miraikan オープンラボ2017・夏「フリーウォーク」, 8月, 2017.
-9. 国際家政学会アジア大会（ARAHE）ワークショップにおけるPepperデモンストレーション, 8月, 2017.
-8. Miraikan 実験イベント「ロボットを目的地に連れて行こう！」, 8回実施, 10月, 11月, 2016.
-7. Miraikan オープンラボ2016・秋～Incoming Reality～「フリーウォーク」, 10月, 2016.
-6. Miraikan研究棟ツアー「ヒューマノイドプロジェクト」ツアー　ロボットと話してみよう！, 3回実施, 11月, 2015.
-5. Miraikan オープンラボ2015「いってみよう」, 10月, 2015.
-4. Miraikan研究棟ツアー「ヒューマノイドプロジェクト」ツアー　ロボットと一緒に歩いてみよう, 7月, 3回実施, 2015.
-3. 東京大学駒場博物館　特別展　『境界を引く⇔ 越える』関連イベント　学生研究紹介　5月, 2015.
-2. Miraikan研究棟ツアー「ヒューマノイドプロジェクト」ツアー　ロボットとコミュニケーション, 1月, 2回実施, 2015.
-1. サイエンスアゴラ, 「未来館の研究棟を探検しよう！」, 11月, 2014.
-
-### Volunteer Activities
-
-4. Mar. 2018. HRI2018 Student Volunteers
-3. Aug. 2016.  DO-IT Japan2016
-2. Nov. 2015.  科学へジャンプイン東京2015
-1. Apr. 2015.  東京レインボープライド
-
 <a href="{{ site.baseurl }}/index.html">Back to Top Page</a>
