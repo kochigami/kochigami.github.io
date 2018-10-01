@@ -23,10 +23,10 @@ layout: default
 ### Poster Presentations
 
 5. <p id="RO-MAN2018-1"> Kanae Kochigami, Kei Okada, Masayuki Inaba:
-"Effect of Walking with a Robot on Child-Child Interactions", pp. 468-471, in Proceeding of the 2018 IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2018), Nanjing, China, 2018. [reffered] </p>
+"Effect of Walking with a Robot on Child-Child Interactions", pp. 468-471, in Proceeding of the 2018 IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2018), Nanjing, China, 2018. [referred] </p>
 
 4. <p id="RO-MAN2018-2"> Kanae Kochigami, Kei Okada, Masayuki Inaba:
-"Does an Introduction of a Person in a Group by a Robot Have a Positive Effect on People's Communication?", pp. 692-698, in Proceeding of the 2018 IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2018), Nanjing, China, 2018. [reffered] </p>
+"Does an Introduction of a Person in a Group by a Robot Have a Positive Effect on People's Communication?", pp. 692-698, in Proceeding of the 2018 IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN 2018), Nanjing, China, 2018. [referred] </p>
 
 3. <p id="HRI2018-2"> Kanae Kochigami, Kei Okada, Masayuki Inaba:
 "Social Acceptance of Interactive Robots in Japan: Comparison of Children and Adults and Analysis of People's Opinion.", pp. 157-158, HRI (Companion) 2018, Chicago, IL, USA, March, 2018. [free pdf available at ACM DL <a href="https://doi.org/10.1145/3173386.3177012">here</a>] [referred] </p>
