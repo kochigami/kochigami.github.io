@@ -58,6 +58,9 @@ layout: default
 
 ## Awards
 
+3. Kanae Kochigami: 
+2018 Google Women Techmakers Scholar, Asia Pacific for her contribution to science communication activities at a science museum, 2018.10.13.
+
 2. Kanae Kochigami, Kei Okada and Masayuki Inaba:
 Effect of Walking with a Robot on Child-Child Interactions, Nanjing City Prize (LBR), RO-MAN 2018, 2018.8.27.
 
