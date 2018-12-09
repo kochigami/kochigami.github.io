@@ -8,7 +8,7 @@ layout: default
 
 <dl>
 
-<dt> Oct. 2018 (expected) – </dt>
+<dt> Oct. 2018 – </dt>
 
 <dd> Science Interpreter Training Program, Graduate School of Arts and Sciences, the University of Tokyo, Japan </dd>
 
