@@ -48,7 +48,7 @@ Department of Mechano-Informatics, Faculty of Engineering, the University of Tok
 
 ### Internship
 
-6. Oct. 2018 - Tokyo Opensource Robotics Kyokai (TORK)
+6. October 15th, 2018 - December 12th (35 hours), 2018 Tokyo Opensource Robotics Kyokai (TORK)
 5. August 1st, 2018 - September 11th, 2018 (20 days) NTT Yokosuka R&D Center "Study on human robot interaction considering the influence of mobile robot on pedestrians"
 4. Apr. 2018 - UTokyo Executive Program 16 and 17 (EP16 and EP17)
 3. Sep. 2015  Calsonic Kansei North America Technical Center 
