@@ -24,4 +24,10 @@ This drawing was made based on one of my favorite songs "Can't stop" Official Mu
 
 2019 is the year of the boar in Chinese zodiac.
 
+# Posts related to my hobbies
+
+[Impressive movies I watched in 2018](../hobby_posts/2018-12-17-movie2018.md)  
+
+[Hello Project Countdown Party 2018](../hobby_posts/2018-12-31-hello-project-countdown-party-2018.md)     
+
 <a href="{{ site.baseurl }}/index.html">Back to Top Page</a>
