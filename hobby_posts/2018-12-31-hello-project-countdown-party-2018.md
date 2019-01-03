@@ -1,8 +1,3 @@
----
-layout: default
-title: Hello Project Countdown Party 2018
----
-
 # 初めてハロープロジェクトのカウントダウンライブを観ました
 
 ## 2018-12-31
