@@ -24,6 +24,10 @@ This drawing was made based on one of my favorite songs "Can't stop" Official Mu
 
 2019 is the year of the boar in Chinese zodiac.
 
+# Playing with words (Japanese)
+
+Twitter link is <a href="https://twitter.com/enakami_gachiko">here</a>
+
 # Posts related to my hobbies
 
 [Impressive movies I watched in 2018](/hobby_posts/2018-12-17-movie2018.md)  
