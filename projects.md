@@ -32,6 +32,8 @@ I have been focusing on three perspectives below.
 
 ### Science Communication Activities
 
+16. 日本科学未来館 WWFジャパン視察協力 "Introduction of Outreach Activities of Humanoid Project", 2019.02.20. 
+15. 東京大学　科学技術インタープリター養成プログラム「科学技術インタープリター論I」研修 「研究者にとってのモンキーセンターの役割とは？」，2019.02.08.  
 14. べてるウィンタースクール2019 研究発表「人とふれ合うロボット研究の紹介」，2019.01.16.  
 13. Miraikan 「研究エリア」を一挙公開！ オープンラボ夏休みスペシャル2018，7月，2018. 
 12. Miraikan オープンラボ2017・秋「フリーウォーク」, 10月, 2017.
