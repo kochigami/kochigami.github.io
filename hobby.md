@@ -24,6 +24,12 @@ This drawing was made based on one of my favorite songs "Can't stop" Official Mu
 
 2019 is the year of the boar in Chinese zodiac.
 
+## L'Écume Des Robots (NAO, Pepper, HSR, Aibo)
+
+![](figure/nao-pepper-hsr-aibo.jpg)
+
+This drawing was made based on one of my favorite books "L'Écume des jours" written by Boris Vian.
+
 # Playing with words (Japanese)
 
 Twitter link is <a href="https://twitter.com/enakami_gachiko">here</a>
