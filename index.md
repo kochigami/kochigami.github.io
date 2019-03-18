@@ -5,7 +5,7 @@ layout: default
 # Welcome to My Website!
 
 ## Profile
-![](figure/profile.png)
+![](figure/nao-pepper-hsr-aibo.jpg)
 <dl>
 <dt>Name</dt>
 <dd>Kanae Kochigami / 東風上 奏絵</dd>
