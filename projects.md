@@ -24,11 +24,11 @@ layout: default
 
 #### ロボットと子どものふれ合いを他の子が見ている様子
 
-![](figure/joint-research-introduction.png)
+![](figure/another-child-seeing-robot-and-child.png)
 
 #### ロボットが働きかけを行うイメージ
 
-![](figure/another-child-seeing-robot-and-child.png)
+![](figure/calling-for-child.png)
 
 #### ロボットの周りで複数の子どもがふれ合い出す様子
 
@@ -52,7 +52,7 @@ layout: default
 
 #### 研究紹介の様子
 
-![](figure/joint-research-introduction.png)
+![](figure/joint-research-introduction.jpg)
 
 #### 子どもとの対話の様子
 
