@@ -4,57 +4,44 @@ layout: default
 
 # Projects
 
-## ロボットの周りで子どもと他者のふれ合いを生み出す
-## Creating Child-People Interaction around a Robot
+## ロボットの周りで子どもと他者のふれ合いを生み出す Creating Child-People Interaction around a Robot
 
 ロボットをコミュニケーションツールとして用い，子どもと他者のふれ合いを生み出そうとしています．
-
-Using robots as a communication tool, we try to create communication between a child and others.
+(Using robots as a communication tool, we try to create communication between a child and others.)
 
 ヒューマンロボットインタラクション分野と科学コミュニケーション分野が融合した学際的な研究を行っています．
-
-We conduct interdisciplinary research that integrates human-robot interaction field and science communication field.
+(We conduct interdisciplinary research that integrates human-robot interaction field and science communication field.)
 
 ヒューマンロボットインタラクション分野では，ペッパーなどのロボットを用いて，ロボットに必要な行動をデザインしています．
-
-In the human robot interaction field, we use a robot such as Pepper to design behaviors required for the robot.
+(In the human robot interaction field, we use a robot such as Pepper to design behaviors required for the robot.)
 
 科学コミュニケーション分野では，ヒューマンロボットインタラクションの実験と，子どもに自身の研究を伝え意見を行う活動を組み合わせた研究方法をデザインしています．
+(In the field of science communication, we design a research method combining human-robot interaction experiments and activities to introduce our research to children and exchange opinions with them.)
 
-In the field of science communication, we design a research method combining human-robot interaction experiments and activities to introduce our research to children and exchange opinions with them.
-
-### 複数の子ども同士のふれ合い創出に向けたロボットの対人距離調整能力構成法
-### The configuration method of interpersonal distance adjustment ability of a robot for creating interaction among multiple children
+### 複数の子ども同士のふれ合い創出に向けたロボットの対人距離調整能力構成法 The configuration method of interpersonal distance adjustment ability of a robot for creating interaction among multiple children
 
 ヒューマンロボットインタラクション分野の研究です．
-
-This is the study in the field of human-robot interaction.
+(This is the study in the field of human-robot interaction.)
 
 これまでの研究で，ロボットに興味があっても，他の子が既にロボットとふれ合っている場合，自分から近づくのが難しい場合があると分かってきました(注)．
-
-Previous study (%) has shown that even if a child is interested in a robot, it may be difficult for the child to get close to the robot if other children are already interacting with the robot.
+(Previous study (%) has shown that even if a child is interested in a robot, it may be difficult for the child to get close to the robot if other children are already interacting with the robot.)
 
 そこで，ロボットが働きかけることにより，子どもとロボットを近づけることを目指します．
+(Therefore, we aim at bringing a child and a robot closer by behavior of the robot.)
 
-Therefore, we aim at bringing a child and a robot closer by behavior of the robot.
-
-#### ロボットと子どものふれ合いを他の子が見ている様子
-#### The scene of another child sees a robot and a child
+#### ロボットと子どものふれ合いを他の子が見ている様子 The scene of another child sees a robot and a child
 
 ![](figure/another-child-seeing-robot-and-child.png)
 
-#### ロボットが働きかけを行うイメージ
-#### The image of behavior of calling a child from a distance 
+#### ロボットが働きかけを行うイメージ The image of behavior of calling a child from a distance 
 
 ![](figure/calling-for-child.png)
 
-#### ロボットの周りで複数の子どもがふれ合い出す様子
-#### The scence where multiple children interact around a robot
+#### ロボットの周りで複数の子どもがふれ合い出す様子 The scence where multiple children interact around a robot
 
 ![](figure/interaction-with-many-children-occur.png)
 
-#### 関連論文
-#### Related papers
+#### 関連論文 Related papers
 
 - Walking together with a robot
   - Design and Evaluation
@@ -62,33 +49,26 @@ Therefore, we aim at bringing a child and a robot closer by behavior of the robo
    - Effects on Child-Child Interaction（上の注, % に対応）
    [link to <a href="{{ site.baseurl }}/publications.html#RO-MAN2018-1">citation</a>]
 
-### 子ども・研究者のふれ合い創出（科学コミュニケーション）
-### Creating child-researcher interaction (Science communication)
+### 子ども・研究者のふれ合い創出（科学コミュニケーション）Creating child-researcher interaction (Science communication)
 
 科学コミュニケーション分野の研究です．
-
-This is the study in the field of science communication.
+(This is the study in the field of science communication.)
 
 日本科学未来館において，子どもたちに自身の子ども・ロボット研究を伝え，対話を行う活動を行っています．
-
-At Miraikan, we conduct activities to introduce our research to children and exchange opinions with them.
+(At Miraikan, we conduct activities to introduce our research to children and exchange opinions with them.)
 
 子どもに研究を伝える方法と，子どもからの意見を引き出す方法の２点に着目し，博物館でのイベントのデザインを行っています．
+(We design an event program at the museum, focusing on two points: how to convey research to children and how to ask their opinions about our study.)
 
-We design an event program at the museum, focusing on two points: how to convey research to children and how to ask their opinions about our study.
-
-#### 研究紹介の様子
-#### The scene of research introduction
+#### 研究紹介の様子 The scene of research introduction
 
 ![](figure/joint-research-introduction.jpg)
 
-#### 子どもとの対話の様子
-#### The scene of communication between a child and a researcher
+#### 子どもとの対話の様子 The scene of communication between a child and a researcher
 
 ![](figure/communication-with-visitors.png)
 
-#### 関連論文
-#### Related papers
+#### 関連論文 Related papers
 
 - in progress
 - Social Acceptance of Interactive Robots in Japan [free pdf available at ACM DL <a href="https://doi.org/10.1145/3173386.3177012">here</a>, link to <a href="{{ site.baseurl }}/publications.html#HRI2018-2">citation</a>]
