@@ -4,29 +4,77 @@ layout: default
 
 # Projects
 
-## Enhancing Child-People Interaction by Child-Robot Interaction
+## Enhancing Child-People Interaction around a Robot
 
-I have been focusing on three perspectives below.  
+ロボットをコミュニケーションツールとして用い，子どもと他者のふれ合いを生み出そうとしています．
 
-### Child-Child interaction
+ヒューマンロボットインタラクション分野と科学コミュニケーション分野が融合した学際的な研究を行っています．
 
-- Introduction of a person by a robot [link to <a href="{{ site.baseurl }}/publications.html#RO-MAN2018-2">citation</a>]
+ヒューマンロボットインタラクション分野では，ペッパーなどのロボットを用いて，ロボットに必要な行動をデザインしています．
+
+科学コミュニケーション分野では，ヒューマンロボットインタラクションの実験と，子どもに自身の研究を伝え意見を行う活動を組み合わせた研究方法をデザインしています．
+
+### 複数の子ども同士のふれ合い創出に向けたロボットの対人距離調整能力構成法
+
+ヒューマンロボットインタラクション分野の研究です．
+
+これまでの研究で，ロボットに興味があっても，他の子が既にロボットとふれ合っている場合，自分から近づくのが難しい場合があると分かってきました(注)．
+
+そこで，ロボットが働きかけることにより，子どもとロボットを近づけることを目指します．
+
+#### ロボットと子どものふれ合いを他の子が見ている様子
+
+![](figure/joint-research-introduction.png)
+
+#### ロボットが働きかけを行うイメージ
+
+![](figure/another-child-seeing-robot-and-child.png)
+
+#### ロボットの周りで複数の子どもがふれ合い出す様子
+
+![](figure/interaction-with-many-children-occur.png)
+
+#### 関連論文
+
 - Walking together with a robot
   - Design and Evaluation
   [<a href="https://doi.org/10.1109/SII.2015.7405071">IEEE Xplore</a>, link to <a href="{{ site.baseurl }}/publications.html#SII2015">citation</a>]
-   - Effects on Child-Child Interaction
+   - Effects on Child-Child Interaction（上の注に対応）
    [link to <a href="{{ site.baseurl }}/publications.html#RO-MAN2018-1">citation</a>]
 
-### Child-Adult interaction
-
-- planned
-- Doing Chores with a Robot [link to <a href="{{ site.baseurl }}/publications.html#IFHE2016">citation</a>]
-
 ### Child-Researcher interaction (Science communication)
+
+科学コミュニケーション分野の研究です．
+
+日本科学未来館において，子どもたちに自身の子ども・ロボット研究を伝え，対話を行う活動を行っています．
+
+子どもに研究を伝える方法と，子どもからの意見を引き出す方法の２点に着目し，博物館でのイベントのデザインを行っています．
+
+#### 研究紹介の様子
+
+![](figure/joint-research-introduction.png)
+
+#### 子どもとの対話の様子
+
+![](figure/communication-with-visitors.png)
+
+#### 関連論文
 
 - in progress
 - Social Acceptance of Interactive Robots in Japan [free pdf available at ACM DL <a href="https://doi.org/10.1145/3173386.3177012">here</a>, link to <a href="{{ site.baseurl }}/publications.html#HRI2018-2">citation</a>]
 - Science Communication Activities for Children [link to <a href="{{ site.baseurl }}/publications.html#RSJ2017">citation</a>]
+
+***
+
+### Previous Projects
+
+#### Child-Child interaction
+
+- Introduction of a person by a robot [link to <a href="{{ site.baseurl }}/publications.html#RO-MAN2018-2">citation</a>]
+
+#### Child-Adult interaction
+
+- Doing Chores with a Robot [link to <a href="{{ site.baseurl }}/publications.html#IFHE2016">citation</a>]
 
 ***
 
