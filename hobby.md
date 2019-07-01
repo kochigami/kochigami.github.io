@@ -40,4 +40,6 @@ Twitter link is <a href="https://twitter.com/enakami_gachiko">here</a>
 
 [Hello Project Countdown Party 2018](/hobby_posts/2018-12-31-hello-project-countdown-party-2018.md)     
 
+[Impressive movies I watched in 2019 (1)](/hobby_posts/2019-03-31-movie2019.md)
+
 <a href="{{ site.baseurl }}/index.html">Back to Top Page</a>
