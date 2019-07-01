@@ -42,4 +42,6 @@ Twitter link is <a href="https://twitter.com/enakami_gachiko">here</a>
 
 [Impressive movies I watched in 2019 (1)](/hobby_posts/2019-03-31-movie2019.md)
 
+[Impressive movies I watched in 2019 (2)](/hobby_posts/2019-07-01-movie2019.md)
+
 <a href="{{ site.baseurl }}/index.html">Back to Top Page</a>
