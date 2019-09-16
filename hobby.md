@@ -30,9 +30,11 @@ This drawing was made based on one of my favorite songs "Can't stop" Official Mu
 
 This drawing was made based on one of my favorite books "L'Écume des jours" written by Boris Vian.
 
-# Daily tweet (Japanese)
+# Twitter (Japanese)
 
-Twitter link is <a href="https://twitter.com/enakami_gachiko">here</a>
+I introduce my research with illustrations. イラストで研究紹介しています．   
+
+Twitter link is <a href="https://twitter.com/kochigani3">here</a>
 
 # Posts related to my hobbies
 
