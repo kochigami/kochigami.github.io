@@ -51,6 +51,8 @@ layout: default
 
 ### Poster Presentations
 
+5. 東風上奏絵, 北川晋吾, 岡田慧, 稲葉雅幸: “手繋ぎ誘導を通したロボットへの場所教示・移動経験記憶と移動時の周囲の人とのインタラクション評価”, 第20回SICEシステムインテグレーション部門講演会講演概要集, 1E1-05, 2019.  
+
 4. Kanae Kochigami, Yohei Kakiuchi, Kei Okada, Masayuki Inaba: “Study of starting conversation system by observing a person's curiosity to a robot”, in Proceedings of 2017 JSME Conference on Robotics and Mechatronics, 2P2-F08, Fukushima, May, 2017. 
 
 3. Kanae Kochigami, Yohei Kakiuchi, Kei Okada, Masayuki Inaba: “Study of walking together system by following a person or holding hands”, in Proceedings of 2017 JSME Conference on Robotics and Mechatronics, 2P2-F07, Fukushima, May, 2017.

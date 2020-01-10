@@ -105,6 +105,7 @@ We design an event program at the museum, focusing on two points: how to convey 
 
 ### Science Communication Activities
 
+１８．日本科学未来館オープンラボ「みんなで判定！～人型ロボットはキミの相棒になれるかな？」，2019.10.26 (13:30-15:00), 2019.11.23, 24 (各日 10:30-12:00, 14:00-15:30).  
 １７．日本科学未来館研究エリア  オープンラボ夏休みスペシャル 「研究エリア」一挙公開！2019，2019.08.23-24.  
 １６．日本科学未来館 WWFジャパン視察協力 "Introduction of Outreach Activities of Humanoid Project", 2019.02.20.   
 １５．東京大学　科学技術インタープリター養成プログラム「科学技術インタープリター論I」研修 「研究者にとってのモンキーセンターの役割とは？」，2019.02.08.    
